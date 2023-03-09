@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '網站： https://mdecd2023.github.io/2b-pj1bg17/content/index.html \n 倉儲： https://github.com/mdecd2023/2b-pj1bg17 \n cmsimde_site', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '網站： https://mdecd2023.github.io/2b-pj1bg17/content/index.html \n 倉儲： https://github.com/mdecd2023/2b-pj1bg17 \n 組員：黃柏閎41023236、廖崇軒41023244', 'tags': '', 'url': 'About.html'}]};
